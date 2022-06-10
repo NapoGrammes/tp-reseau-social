@@ -1,0 +1,33 @@
+.menu {
+    position: fixed;
+    float:left;
+    width: 180px;
+    padding: 10px;
+    text-align: left;
+    background: red;
+}
+
+.contenu {
+    float:right;
+    width: 70%;
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background: blue;
+}
+
+.nouveau_post,.affiche_post {
+    height: auto;
+    width: auto;
+    padding: 10px;
+    text-align: center;
+}
+
+.nouveau_post {
+    background: pink;
+    margin-bottom: 10px;
+}
+
+.affiche_post {
+    background: orange;
+}
